@@ -1,4 +1,4 @@
-# logicaProgramacaoC-
+# logicaProgramacaoCsharp
 alguns exercicios de logica em C#
 
 
