@@ -11,3 +11,4 @@ alguns exercicios de logica em C#
 
 4 -  Crie um algoritmo que calcule o desconto de um produto. O usuário deverá informar o Nome, valor do produto e a porcentagem de desconto a ser calculada.
 
+5 - Crie um algoritmo que determine se um número é par ou impar.
